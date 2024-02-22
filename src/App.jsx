@@ -6,7 +6,7 @@ import News from "./component/News"
 import Footer from "./component/Footer"
 import { Routes, Route } from "react-router-dom";
 import LoadingBar from 'react-top-loading-bar'
-// const apiKey='00a8c5313f194349aaad449a66aa50ed'
+
 const apiKey = import.meta.env.NEW_API_KEY
 
 
